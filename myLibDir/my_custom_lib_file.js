@@ -1,3 +1,3 @@
 function myFunction() {
-	alert('hello')
+	alert('hello new text here')
 }
